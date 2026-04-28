@@ -1,0 +1,1 @@
+friend float kelilingBelahKetupat(BelahKetupat bk);
